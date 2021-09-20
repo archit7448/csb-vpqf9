@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://archit7448.github.io/csb-vpqf9/static/css/main.3e36071f.chunk.css",
+    "main.js": "https://archit7448.github.io/csb-vpqf9/static/js/main.19417ae7.chunk.js",
+    "main.js.map": "https://archit7448.github.io/csb-vpqf9/static/js/main.19417ae7.chunk.js.map",
+    "runtime-main.js": "https://archit7448.github.io/csb-vpqf9/static/js/runtime-main.9d4bcf47.js",
+    "runtime-main.js.map": "https://archit7448.github.io/csb-vpqf9/static/js/runtime-main.9d4bcf47.js.map",
+    "static/js/2.7fbe62eb.chunk.js": "https://archit7448.github.io/csb-vpqf9/static/js/2.7fbe62eb.chunk.js",
+    "static/js/2.7fbe62eb.chunk.js.map": "https://archit7448.github.io/csb-vpqf9/static/js/2.7fbe62eb.chunk.js.map",
+    "index.html": "https://archit7448.github.io/csb-vpqf9/index.html",
+    "static/css/main.3e36071f.chunk.css.map": "https://archit7448.github.io/csb-vpqf9/static/css/main.3e36071f.chunk.css.map",
+    "static/js/2.7fbe62eb.chunk.js.LICENSE.txt": "https://archit7448.github.io/csb-vpqf9/static/js/2.7fbe62eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d4bcf47.js",
+    "static/js/2.7fbe62eb.chunk.js",
+    "static/css/main.3e36071f.chunk.css",
+    "static/js/main.19417ae7.chunk.js"
+  ]
+}
